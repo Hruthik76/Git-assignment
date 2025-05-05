@@ -13,3 +13,7 @@ we created a github account and created a new repository
 we pushed our local repo to github and created a README.md file on GitHub interface and committed changes directly on main branch from github and pulled the changes to local repository
 Created a new branch named feature/update-readme made changes in the readme file and updated about the assignment 2
 Created a pull request from "feature/update-readme" to main branch merged the pull request.
+
+screenshot of successful pull request and merge:
+![image](https://github.com/user-attachments/assets/ae10213a-56e2-45f7-994d-d28b4b080c0c)
+

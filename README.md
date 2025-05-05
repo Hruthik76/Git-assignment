@@ -8,3 +8,8 @@ Screenshot of git log output:
 differences between commits:
 ![image](https://github.com/user-attachments/assets/e294520a-1357-444d-be59-877cdcaf93fa)
 
+from assignment-2
+we created a github account and created a new repository 
+we pushed our local repo to github and created a README.md file on GitHub interface and committed changes directly on main branch from github and pulled the changes to local repository
+Created a new branch named feature/update-readme made changes in the readme file and updated about the assignment 2
+Created a pull request from "feature/update-readme" to main branch merged the pull request.
